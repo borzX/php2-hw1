@@ -1,1 +1,1 @@
-# php2-hw1
+# reminger-tg-bot
